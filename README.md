@@ -1,1 +1,1 @@
-# words
+This is a JSON-formatted list of list of words, partitioned by length, which I put together long ago for a typing game (the old Unity C# script is in my unityscripts repo). There are just over 1600 words, culled from a dictionary, omitting proper nouns, swear words, variations of the same word, and other words that I thought weren't quite right for this app.
